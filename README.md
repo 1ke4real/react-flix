@@ -1,7 +1,5 @@
 # film-react
 
-**Version:** 0.0.0
-
 This is a sample README for your "film-react" project. You can replace this with a description of your project.
 
 ## Table of Contents
